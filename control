@@ -1,0 +1,9 @@
+Package: com.ihack102.snape
+Name: Snape
+Depends: mobilesubstrate
+Version: 0.0
+Architecture: iphoneos-arm
+Description: Block Ads In Playlist [Beta]
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks
